@@ -3,8 +3,8 @@
 |Day|Name|Status|
 |---|-|-|
 [Day 1](https://github.com/ukalto/AdventOfCode2023/blob/main/Day01/day01/src/main.rs)|Historian Hysteria|⭐ ⭐|
-[Day 2](https://github.com/ukalto/AdventOfCode2023/blob/main/Day02/day02/src/main.rs)|||
-[Day 3](https://github.com/ukalto/AdventOfCode2023/blob/main/Day03/day03/src/main.rs)|||
+[Day 2](https://github.com/ukalto/AdventOfCode2023/blob/main/Day02/day02/src/main.rs)|Red-Nosed Reports|⭐|
+[Day 3](https://github.com/ukalto/AdventOfCode2023/blob/main/Day03/day03/src/main.rs)|Mull It Over|⭐ ⭐|
 [Day 4](https://github.com/ukalto/AdventOfCode2023/blob/main/Day04/day04/src/main.rs)|||
 [Day 5](https://github.com/ukalto/AdventOfCode2023/blob/main/Day05/day05/src/main.rs)|||
 [Day 6](https://github.com/ukalto/AdventOfCode2023/blob/main/Day06/day06/src/main.rs)|||
