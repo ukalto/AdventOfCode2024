@@ -7,9 +7,18 @@ def read_input():
 
 
 def solve_first(rules, updates):
-    pass
-
-
+    sum_error = 0
+    for update in updates:
+        i = 0
+        for j in range(1, len(update)-1):
+            test = [update[i], update[j]]
+            if test not in rules:
+                break
+            i += 1
+        if i+1 != len(update):
+            sum_error += int(update[int(i/2+1)])
+            print(update)
+    print(sum_error)
 if __name__ == '__main__':
     rules, updates = read_input()
     solve_first(rules, updates)
