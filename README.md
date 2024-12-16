@@ -5,10 +5,10 @@
 [Day 1](https://github.com/ukalto/AdventOfCode2023/blob/main/Day01/day01/src/main.rs)|Historian Hysteria|⭐ ⭐|
 [Day 2](https://github.com/ukalto/AdventOfCode2023/blob/main/Day02/day02/src/main.rs)|Red-Nosed Reports|⭐|
 [Day 3](https://github.com/ukalto/AdventOfCode2023/blob/main/Day03/day03/src/main.rs)|Mull It Over|⭐ ⭐|
-[Day 4](https://github.com/ukalto/AdventOfCode2023/blob/main/Day04/day04/src/main.rs)|||
-[Day 5](https://github.com/ukalto/AdventOfCode2023/blob/main/Day05/day05/src/main.rs)|||
-[Day 6](https://github.com/ukalto/AdventOfCode2023/blob/main/Day06/day06/src/main.rs)|||
-[Day 7](https://github.com/ukalto/AdventOfCode2023/blob/main/Day07/day07/src/main.rs)|||
+[Day 4](https://github.com/ukalto/AdventOfCode2023/blob/main/Day04/day04/src/main.rs)|Ceres Search|⭐ ⭐|
+[Day 5](https://github.com/ukalto/AdventOfCode2023/blob/main/Day05/day05/src/main.rs)|Print Queue|⭐ ⭐|
+[Day 6](https://github.com/ukalto/AdventOfCode2023/blob/main/Day06/day06/src/main.rs)|Guard Gallivant|⭐|
+[Day 7](https://github.com/ukalto/AdventOfCode2023/blob/main/Day07/day07/src/main.rs)|Bridge Repair|⭐ ⭐|
 [Day 8](https://github.com/ukalto/AdventOfCode2023/blob/main/Day08/day08/src/main.rs)|||
 [Day 9](https://github.com/ukalto/AdventOfCode2023/blob/main/Day09/day09/src/main.rs)|||
 [Day 10](https://github.com/ukalto/AdventOfCode2023/blob/main/Day10/day10/src/main.rs)|||
