@@ -1,28 +1,26 @@
-# AdventOfCode2023
-
-|Day|Name|Status|
-|---|-|-|
-[Day 1](https://github.com/ukalto/AdventOfCode2023/blob/main/Day01/day01/src/main.rs)|Historian Hysteria|⭐ ⭐|
-[Day 2](https://github.com/ukalto/AdventOfCode2023/blob/main/Day02/day02/src/main.rs)|Red-Nosed Reports|⭐|
-[Day 3](https://github.com/ukalto/AdventOfCode2023/blob/main/Day03/day03/src/main.rs)|Mull It Over|⭐ ⭐|
-[Day 4](https://github.com/ukalto/AdventOfCode2023/blob/main/Day04/day04/src/main.rs)|Ceres Search|⭐ ⭐|
-[Day 5](https://github.com/ukalto/AdventOfCode2023/blob/main/Day05/day05/src/main.rs)|Print Queue|⭐ ⭐|
-[Day 6](https://github.com/ukalto/AdventOfCode2023/blob/main/Day06/day06/src/main.rs)|Guard Gallivant|⭐|
-[Day 7](https://github.com/ukalto/AdventOfCode2023/blob/main/Day07/day07/src/main.rs)|Bridge Repair|⭐ ⭐|
-[Day 8](https://github.com/ukalto/AdventOfCode2023/blob/main/Day08/day08/src/main.rs)|||
-[Day 9](https://github.com/ukalto/AdventOfCode2023/blob/main/Day09/day09/src/main.rs)|||
-[Day 10](https://github.com/ukalto/AdventOfCode2023/blob/main/Day10/day10/src/main.rs)|||
-[Day 11](https://github.com/ukalto/AdventOfCode2023/blob/main/Day11/day11/src/main.rs)|||
-[Day 12](https://github.com/ukalto/AdventOfCode2023/blob/main/Day12/day12/src/main.rs)|||
-[Day 13](https://github.com/ukalto/AdventOfCode2023/blob/main/Day13/day13/src/main.rs)|||
-[Day 14](https://github.com/ukalto/AdventOfCode2023/blob/main/Day14/day14/src/main.rs)|||
-[Day 15](https://github.com/ukalto/AdventOfCode2023/blob/main/Day15/day15/src/main.rs)|||
-[Day 16](https://github.com/ukalto/AdventOfCode2023/blob/main/Day16/day16/src/main.rs)|||
-[Day 17](https://github.com/ukalto/AdventOfCode2023/blob/main/Day17/day17/src/main.rs)|||
-[Day 18](https://github.com/ukalto/AdventOfCode2023/blob/main/Day18/day18/src/main.rs)|||
-[Day 19](https://github.com/ukalto/AdventOfCode2023/blob/main/Day19/day19/src/main.rs)|||
-[Day 20](https://github.com/ukalto/AdventOfCode2023/blob/main/Day20/day20/src/main.rs)|||
-[Day 21](https://github.com/ukalto/AdventOfCode2023/blob/main/Day21/day21/src/main.rs)|||
-[Day 22](https://github.com/ukalto/AdventOfCode2023/blob/main/Day22/day22/src/main.rs)|||
-[Day 23](https://github.com/ukalto/AdventOfCode2023/blob/main/Day23/day23/src/main.rs)|||
-[Day 24](https://github.com/ukalto/AdventOfCode2023/blob/main/Day24/day24/src/main.rs)|||
+# AdventOfCode2024
+|Status|
+|-.py 1](https://github.com/ukalto/AdventOfCode2024/Day01/day01.py)|Historian Hysteria|⭐ ⭐|
+[Day 2](https://github.com/ukalto/AdventOfCode2024/Day02/day02.py)|Red-Nosed Reports|⭐|
+[Day 3](https://github.com/ukalto/AdventOfCode2024/Day03/day03.py)|Mull It Over|⭐ ⭐|
+[Day 4](https://github.com/ukalto/AdventOfCode2024/Day04/day04.py)|Ceres Search|⭐ ⭐|
+[Day 5](https://github.com/ukalto/AdventOfCode2024/Day05/day05.py)|Print Queue|⭐ ⭐|
+[Day 6](https://github.com/ukalto/AdventOfCode2024/Day06/day06.py)|Guard Gallivant|⭐|
+[Day 7](https://github.com/ukalto/AdventOfCode2024/Day07/day07.py)|Bridge Repair|⭐ ⭐|
+[Day 8](https://github.com/ukalto/AdventOfCode2024/Day08/day08.py)|||
+[Day 9](https://github.com/ukalto/AdventOfCode2024/Day09/day09.py)|||
+[Day 10](https://github.com/ukalto/AdventOfCode2024/Day10/day10.py)|||
+[Day 11](https://github.com/ukalto/AdventOfCode2024/Day11/day11.py)|||
+[Day 12](https://github.com/ukalto/AdventOfCode2024/Day12/day12.py)|||
+[Day 13](https://github.com/ukalto/AdventOfCode2024/Day13/day13.py)|||
+[Day 14](https://github.com/ukalto/AdventOfCode2024/Day14/day14.py)|||
+[Day 15](https://github.com/ukalto/AdventOfCode2024/Day15/day15.py)|||
+[Day 16](https://github.com/ukalto/AdventOfCode2024/Day16/day16.py)|Reindeer Maze|⭐|
+[Day 17](https://github.com/ukalto/AdventOfCode2024/Day17/day17.py)|||
+[Day 18](https://github.com/ukalto/AdventOfCode2024/Day18/day18.py)|||
+[Day 19](https://github.com/ukalto/AdventOfCode2024/Day19/day19.py)|||
+[Day 20](https://github.com/ukalto/AdventOfCode2024/Day20/day20.py)|||
+[Day 21](https://github.com/ukalto/AdventOfCode2024/Day21/day21.py)|||
+[Day 22](https://github.com/ukalto/AdventOfCode2024/Day22/day22.py)|||
+[Day 23](https://github.com/ukalto/AdventOfCode2024/Day23/day23.py)|||
+[Day 24](https://github.com/ukalto/AdventOfCode2024/Day24/day24.py)|||
