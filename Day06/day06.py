@@ -2,7 +2,7 @@ import copy
 
 
 def read_map():
-    with open('day06.txt', 'r') as file:
+    with open('day06', 'r') as file:
         map = []
         guard_pos = (-1, -1)
         for line in file.readlines():

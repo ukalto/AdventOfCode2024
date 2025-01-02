@@ -1,6 +1,6 @@
 def solve_first():
     count_save = 0
-    with open('day02.txt', 'r') as file:
+    with open('day02', 'r') as file:
         for line in file:
             report = line.split()
             try:
@@ -25,7 +25,7 @@ def solve_first():
 
 # def solve_second():
 #     count_save = 0
-#     with open('day02.txt', 'r') as file:
+#     with open('day02', 'r') as file:
 #         for line in file:
 #             report = line.split()
 #             count_errors = 0
@@ -66,7 +66,7 @@ def solve_first():
 
 def solve_second():
     count_save = 0
-    with open('day02.txt', 'r') as file:
+    with open('day02', 'r') as file:
         for line in file:
             report = line.split()
             error_idx = validate_report(report)

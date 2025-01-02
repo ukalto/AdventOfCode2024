@@ -1,5 +1,5 @@
 def read_input():
-    with open('day04.txt', 'r') as file:
+    with open('day04', 'r') as file:
         return [[letter for letter in line.strip()] for line in file.readlines()]
 
 

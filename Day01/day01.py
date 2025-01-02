@@ -1,6 +1,6 @@
 def read_input():
     sorted_array = [[], []]
-    with open('day01.txt', 'r') as file:
+    with open('day01', 'r') as file:
         for line in file:
             distances = line.strip().split()
             sorted_array[0].append(int(distances[0]))

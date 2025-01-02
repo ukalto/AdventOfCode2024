@@ -9,7 +9,7 @@
 [Day 6](https://github.com/ukalto/AdventOfCode2024/Day06/day06.py)|Guard Gallivant|⭐|
 [Day 7](https://github.com/ukalto/AdventOfCode2024/Day07/day07.py)|Bridge Repair|⭐ ⭐|
 [Day 8](https://github.com/ukalto/AdventOfCode2024/Day08/day08.py)|Resonant Collinearity||
-[Day 9](https://github.com/ukalto/AdventOfCode2024/Day09/day09.py)|||
+[Day 9](https://github.com/ukalto/AdventOfCode2024/Day09/day09.py)|Disk Fragmenter|⭐⭐|
 [Day 10](https://github.com/ukalto/AdventOfCode2024/Day10/day10.py)|||
 [Day 11](https://github.com/ukalto/AdventOfCode2024/Day11/day11.py)|||
 [Day 12](https://github.com/ukalto/AdventOfCode2024/Day12/day12.py)|||
